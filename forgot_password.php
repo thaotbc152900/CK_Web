@@ -7,7 +7,7 @@ session_start();
     <title>Forgot Password</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link href="password.css" rel="stylesheet">
-<!--    <script language="javascript" src="assets/js/error.js"></script>-->
+
 </head>
 <body>
 <div class="container">
